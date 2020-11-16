@@ -15,11 +15,11 @@ We created an application that helps you get out of the house by finding local e
 
 ### Path to GitHub Repository
 
-<https://github.com/jamesosull16/project_fun>
+<https://github.com/JonPointer/project_fun>
 
 ### Path to GitHub Hosted Application
 
-<https://jamesosull16.github.io/project_fun/>
+<https://jonpointer.github.io/project_fun/>
 
 ### Screenshot of the completed application
 
